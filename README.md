@@ -1,5 +1,10 @@
-### Hi there 👋
+### Halo semua 👋
 
+Perkenalkan nama saya **Moh. Azzam Priyanto**.  
+Saya seorang mahasiswa Sistem Informasi di UPN "Veteran Jawa Timur".  
+Saya tertarik untuk belajar pada bidang Front End Web Developer.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan kamu bisa kunjungi akun [LinkedIn](https://www.linkedin.com/in/mazzampr/) ku ya.
 <!--
 **mazzampr/mazzampr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
