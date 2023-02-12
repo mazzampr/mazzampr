@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Moh. Azzam Priyanto**.  
 Saya seorang mahasiswa Sistem Informasi di UPN "Veteran Jawa Timur".  
-Saya tertarik untuk belajar pada bidang Front End Web Developer.
+Saya tertarik untuk belajar pada bidang Front End Web & Mobile Developer.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan kamu bisa kunjungi akun [LinkedIn](https://www.linkedin.com/in/mazzampr/) ku ya.
 <!--
