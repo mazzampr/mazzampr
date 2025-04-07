@@ -1,10 +1,8 @@
-### Halo semua 👋
+### Halo Everybody 👋
 
-Perkenalkan nama saya **Moh. Azzam Priyanto**.  
-Saya seorang mahasiswa Sistem Informasi di UPN "Veteran Jawa Timur".  
-Saya tertarik untuk belajar pada bidang Front End Web & Mobile Developer.
+I'm an undergraduate student in Information Systems with a passion for software development, specializing in Android Native using Kotlin and Web Development. Eager to learn and grow, I actively engage in tech communities and seek opportunities like volunteering and internships to gain valuable industry experience. I hold a Google Play Store Listing Certification, ensuring smooth app publishing with optimal visibility. I deliver innovative and high-quality solutions from cutting-edge features to scalable design and MVVM standards. Let’s collaborate and create something exceptional together.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan kamu bisa kunjungi akun [LinkedIn](https://www.linkedin.com/in/mazzampr/) ku ya.
+If you are interested in getting to know me, please dm me at [My LinkedIn](https://www.linkedin.com/in/mazzampr/)
 <!--
 **mazzampr/mazzampr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
