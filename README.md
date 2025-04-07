@@ -1,6 +1,6 @@
 ### Halo Everybody 👋
 
-I'm an undergraduate student in Information Systems with a passion for software development, specializing in Android Native using Kotlin and Web Development. Eager to learn and grow, I actively engage in tech communities and seek opportunities like volunteering and internships to gain valuable industry experience. I hold a Google Play Store Listing Certification, ensuring smooth app publishing with optimal visibility. I deliver innovative and high-quality solutions from cutting-edge features to scalable design and MVVM standards. Let’s collaborate and create something exceptional together.
+I am a passionate Mobile Developer Developer with over 2 years of experience creating dynamic, high-quality mobile applications using Kotlin. Eager to learn and grow, I actively engage in tech communities and seek opportunities like freelancing and work at industry to gain valuable industry experience. I hold a Google Play Store Listing Certification, ensuring smooth app publishing with optimal visibility. I deliver innovative and high-quality solutions from cutting-edge features to scalable design and MVVM standards. Let’s collaborate and create something exceptional together.
 
 If you are interested in getting to know me, please dm me at [My LinkedIn](https://www.linkedin.com/in/mazzampr/)
 <!--
